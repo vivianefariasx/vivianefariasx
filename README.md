@@ -11,7 +11,7 @@
   <img align="center" alt="Viviane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Viviane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Viviane-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Viviane-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Viviane-C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg">
   <img align="right" alt="Viviane-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911593887569707051/911594072911798272/Webp.net-gifmaker.gif">
 </div>
   
