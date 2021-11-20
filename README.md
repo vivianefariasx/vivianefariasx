@@ -1,4 +1,4 @@
-## Oiii eu sou a Viviane Farias e sou apaixonada por desenvolvimento de software.
+## Oi eu sou a Viviane Farias e sou apaixonada por desenvolvimento de software.
 
 <div align="center">
   <a href="https://github.com/vivianefariasx">
